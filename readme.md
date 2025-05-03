@@ -8,6 +8,7 @@ Program ini adalah program CRUD data Mahasiswa, Fakultas, dan Jurusan menggunaka
 
 ## Struktur Database
 ![ERD](documentation/erd.png)
+
 Terdapat 3 tabel dalam database yang digunakan dalam aplikasi ini:
 1. **Fakultas**, yang berisi data fakultas.
 2. **Jurusan**, yang berisi data jurusan dan menggunakan relasi one to many dengan fakultas.
@@ -78,4 +79,4 @@ Program ini menggunakan arsitektur Model-View-Controller (MVC) dan konsep OOP (O
 4. Akses aplikasi melalui browser dengan URL seperti `http://localhost/tp_mvc`.
 
 ## Dokumentasi
-
+https://github.com/user-attachments/assets/39fc08af-6dc2-4a87-a003-ef154ac47aaf
